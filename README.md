@@ -35,5 +35,6 @@ Authors and Contributions:
 
 Contact and Support:
 
-For questions or issues, please contact us via GitHub Issues or directly at email: 
+For questions or issues, please contact us via GitHub Issues or directly at email:  
+jeremyspace@spacemillerco.com
 
