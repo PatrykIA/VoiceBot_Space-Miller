@@ -4,7 +4,7 @@ Space&Miller Voicebot is an advanced voicebot designed to demonstrate the capabi
 
 Below is the link to the Voicebot:
 
-https://vapi.ai?demo=true&shareKey=8319c551-6cc4-4b92-928b-160b4c8ff9fe&assistantId=7f58babb-fce2-4195-bb89-5fcf52548f4e
+https://vapi.ai?demo=true&shareKey=eaf6fa4d-cfbd-466a-a79d-5164f2649c19&assistantId=7c7396f2-d9f4-4898-b951-26ab1bf1f2ce
 
 Project Purpose:
 
